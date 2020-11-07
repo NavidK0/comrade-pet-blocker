@@ -2,6 +2,7 @@ banned
 cache
 node_modules
 src/config.json
+dist
 
 .idea
 .vim
