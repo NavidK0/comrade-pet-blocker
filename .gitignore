@@ -1,0 +1,9 @@
+banned
+cache
+node_modules
+src/config.json
+
+.idea
+.vim
+.vs
+.vsc

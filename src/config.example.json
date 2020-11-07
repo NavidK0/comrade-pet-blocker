@@ -1,0 +1,33 @@
+{
+  "token": "",
+  "cacheDir": "cache",
+  "bannedDir": "banned",
+  "blockSimilarityRatio": 20,
+  "blockEmojis": [
+    "774693069718290462",
+    "774703079106543646",
+    "petthenavid",
+    "petnavid",
+    "navidpet"
+  ],
+  "language": {
+    "successfulBlock": [
+      "BLOCKED. GET REKT.",
+      "BLOCKED. GET DUNKED ON.",
+      "BLOCKED. GET OWNED.",
+      "BLOCKED. GET DESTROYED.",
+      "BLOCKED. GET ABSOLUTELY DESTROYED.",
+      "BLOCKED. GET ABSOLUTELY MEME'D ON.",
+      "BLOCKED. GET MEME'D ON.",
+      "BLOCKED. GET LMAO'D ON.",
+      "BLOCKED. GET LMAO'D.",
+      "BLOCKED. GET PUNK'D.",
+      "BLOCKED. GET SHADURU'D.",
+      "BLOCKED. GET LA-MAYO'D.",
+      "BLOCKED. GET ECKS DEE'D.",
+      "BLOCKED. GET ROTOSCAPED.",
+      "BLOCKED. GET SPACE PULSED.",
+      "BLOCKED. GET FJORDED ON."
+    ]
+  }
+}
