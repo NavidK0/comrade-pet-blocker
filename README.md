@@ -3,7 +3,7 @@ Blocks dastardly unwanted pets.
 
 
 # Installation
-Make sure you fill out config.json. There is an example config.example.json you can copy.  
+Make sure you fill out config.json and put it in the src folder before you build. There is an example config.example.json you can copy.  
 The token is your Discord bot token.  
 
 `npm run build`  
